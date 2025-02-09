@@ -30,3 +30,4 @@ Niv- gpt2/dream_model_gpt2/special_tokens_map.json
 Niv- gpt2/dream_model_gpt2/tokenizer_config.json
 Niv- gpt2/dream_model_gpt2/vocab.json"dreams_interpreter/" 
 dreams_interpreter/
+dream_interpreter_t5/
