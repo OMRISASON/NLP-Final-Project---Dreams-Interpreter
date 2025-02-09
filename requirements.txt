@@ -1,0 +1,17 @@
+# PyTorch with GPU support (Ensure you install the correct CUDA version)
+torch --index-url https://download.pytorch.org/whl/cu118
+
+# Machine Learning Libraries
+pandas
+scikit-learn
+datasets
+openpyxl
+
+# NLP Libraries
+transformers
+nltk
+bert-score
+tqdm
+sentencepiece
+rouge_score
+
