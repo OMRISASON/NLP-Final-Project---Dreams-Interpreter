@@ -1,0 +1,51 @@
+Dream,Original,Masked Version,Perplexity,BERTScore,ROUGE-L
+Flying,"Desire for freedom and liberation from constraints, sometimes related to family or societal pressures.","Desire for [MASK] and liberation from constraints, sometimes related to family or societal pressures.",33.02121353149414,0.9650430679321289,0.9285714285714286
+Teeth falling out,"Anxiety about loss, often symbolizing fear of losing authority or power.",Anxiety about [MASK] often symbolizing fear of losing authority or power.,40.832462310791016,0.946632981300354,0.9090909090909091
+Being chased,Representation of repressed fears or internal conflicts the dreamer is struggling with.,Representation of [MASK] fears or internal conflicts the dreamer is struggling with.,35.568180084228516,0.9677317142486572,0.9166666666666666
+Death of a loved one,"Unconscious wish to end a dependent or conflicted relationship, but also fear of loss.","Unconscious wish [MASK] end a dependent or conflicted relationship, but also fear of loss.",47.50345230102539,0.9576783180236816,0.9285714285714286
+Falling from a great height,Feeling of losing control or fear of failure.,Feeling of [MASK] control or fear of failure.,231.5529327392578,0.9353204965591431,0.875
+Unprepared for an exam,Anxiety about performance and meeting external expectations.,Anxiety about [MASK] and meeting external expectations.,379.08135986328125,0.9433355331420898,0.8571428571428571
+Self-injury,Expression of guilt and a desire to punish oneself.,Expression of [MASK] and a desire to punish oneself.,117.96743774414062,0.9482762217521667,0.8888888888888888
+Arriving late to an important meeting,Persistent fear of not meeting expectations and missing opportunities.,Persistent fear [MASK] not meeting expectations and missing opportunities.,191.83509826660156,0.9399458765983582,0.8888888888888888
+Infidelity,Anxiety related to trust and interpersonal relationships.,Anxiety related [MASK] trust and interpersonal relationships.,165.4438018798828,0.9393121004104614,0.8571428571428571
+Losing a valuable item,Anxiety over loss of identity or personal value.,Anxiety over [MASK] of identity or personal value.,170.6611328125,0.9291921854019165,0.875
+Raging waters,Surging emotions trying to surface into consciousness.,Surging emotions [MASK] to surface into consciousness.,171.91519165039062,0.9473685622215271,0.8571428571428571
+Passing through a tunnel,Symbol of rebirth or transition to a new life stage.,Symbol of [MASK] or transition to a new life stage.,58.19696807861328,0.9417400360107422,0.9
+Torn clothes,Fear of exposing flaws and weaknesses to others.,Fear of [MASK] flaws and weaknesses to others.,164.89903259277344,0.920578122138977,0.875
+Feast or banquet,Desire for emotional or physical satisfaction.,Desire for [MASK] or physical satisfaction.,865.4795532226562,0.8932497501373291,0.8333333333333334
+Talking to a deceased person,Attempt to process grief or recall values and messages from the deceased.,Attempt to [MASK] grief or recall values and messages from the deceased.,73.84529876708984,0.9318668842315674,0.9166666666666666
+Winning a prize,Wish for recognition and self-worth affirmation.,Wish for [MASK] and self-worth affirmation.,69.34339141845703,0.9501746296882629,0.8571428571428571
+Entering an unfamiliar house,Exploration of unconscious aspects of the self.,Exploration of [MASK] aspects of the self.,271.5570373535156,0.9459700584411621,0.8571428571428571
+Meeting with an authority figure,Processing of conflicts with authority figures in real life.,Processing of [MASK] with authority figures in real life.,582.1795043945312,0.9340828061103821,0.8888888888888888
+Aggressive animal,Representation of primitive drives or repressed anger.,Representation of [MASK] drives or repressed anger.,126.46587371826172,0.9471040368080139,0.8571428571428571
+Drowning,Feeling emotionally overwhelmed or unable to cope with problems.,Feeling emotionally [MASK] or unable to cope with problems.,86.89356994628906,0.9435486793518066,0.8888888888888888
+Returning to a childhood home,Search for security and roots.,Search for security and roots.,747.9779052734375,1.0,1.0
+Small child,"Wish for purity and innocence, or a need for protection and support.","Wish for [MASK] and innocence, or a need for protection and support.",52.57597732543945,0.9556928873062134,0.9166666666666666
+Climbing stairs,Personal or professional advancement.,Personal or professional advancement.,858.4552612304688,1.0,1.0
+Locked gate,Feeling of being blocked in personal or professional life.,Feeling of [MASK] blocked in personal or professional life.,223.44363403320312,0.9404065608978271,0.8888888888888888
+Pregnancy,"Creativity, new ideas, or projects coming to fruition.","Creativity, new [MASK] or projects coming to fruition.",83.67066955566406,0.9576004147529602,0.875
+Unexpected sexual encounter,Expression of repressed sexual desires or a need for closer intimacy.,Expression of [MASK] sexual desires or a need for closer intimacy.,83.73692321777344,0.9545228481292725,0.9090909090909091
+Breathtaking landscape,"Aspiration for an ideal or a safe, serene place.","Aspiration for [MASK] ideal or a safe, serene place.",50.38071060180664,0.9618270993232727,0.8888888888888888
+Bridge,Transition between life stages or different emotions.,Transition between [MASK] stages or different emotions.,461.2300109863281,0.9533694386482239,0.8571428571428571
+Full moon,Connection to natural forces and emotional balance.,Connection to [MASK] forces and emotional balance.,213.0284881591797,0.9511309862136841,0.8571428571428571
+Bright light,"Enlightenment, new insight, or growing awareness.","Enlightenment, new [MASK] or growing awareness.",277.94976806640625,0.9404774904251099,0.8333333333333334
+Physical fight,Internal conflict between opposing drives.,Internal conflict between opposing drives.,856.2158203125,1.0,1.0
+Dark forest,Feeling lost or in search of oneself.,Feeling lost [MASK] in search of oneself.,175.20396423339844,0.9326816201210022,0.8571428571428571
+Driving a car,Sense of control or lack of control over life direction.,Sense of [MASK] or lack of control over life direction.,62.42426300048828,0.9367073774337769,0.9
+Childbirth,New beginnings or significant creation.,New beginnings or significant creation.,168.794677734375,1.0,1.0
+Rain,Emotional cleansing and renewal.,Emotional cleansing and renewal.,489.9902648925781,1.0,1.0
+Open door,New opportunity or exploration of the unknown.,New opportunity [MASK] exploration of the unknown.,194.01422119140625,0.9249696731567383,0.8571428571428571
+Volcano eruption,Suppressed emotions suddenly breaking out.,Suppressed emotions suddenly breaking out.,237.07264709472656,1.0000001192092896,1.0
+Weapons,Confrontation or emotional self-defense.,Confrontation or emotional self-defense.,118.88252258300781,1.0,1.0
+Theft,Fear of being deprived of rights or possessions.,Fear of [MASK] deprived of rights or possessions.,245.21673583984375,0.9314906597137451,0.875
+Mirror,Concern with self-image and identity.,Concern with self-image and identity.,51.14596176147461,1.0,1.0
+High-speed train,Pressure to cope with fast-paced life events.,Pressure to [MASK] with fast-paced life events.,130.1004180908203,0.9271571636199951,0.875
+Ancient book,Search for knowledge or insight.,Search for knowledge or insight.,165.48341369628906,1.0,1.0
+Public nudity,Fear of exposure or vulnerability.,Fear of exposure or vulnerability.,326.87115478515625,1.0,1.0
+Being lost,Confusion and lack of direction.,Confusion and lack of direction.,526.6051025390625,1.0,1.0
+Shining stars,High aspirations or hope.,High aspirations or hope.,563.8204345703125,1.0,1.0
+Tall ladder,Aspiration to rise in status or achieve great success.,Aspiration to [MASK] in status or achieve great success.,121.13868713378906,0.9395783543586731,0.8888888888888888
+Wings,Desire to escape or break free from constraints.,Desire to [MASK] or break free from constraints.,132.51608276367188,0.8970813751220703,0.875
+Beautiful music,Search for inner harmony and peace.,Search for [MASK] harmony and peace.,313.7678527832031,0.9408242702484131,0.8333333333333334
+Party,Need for social life and a sense of belonging.,Need for [MASK] life and a sense of belonging.,80.70653533935547,0.94844651222229,0.8888888888888888
+Foreign city,Seeking new experiences or a change in reality.,Seeking new [MASK] or a change in reality.,814.9046630859375,0.9433836936950684,0.875

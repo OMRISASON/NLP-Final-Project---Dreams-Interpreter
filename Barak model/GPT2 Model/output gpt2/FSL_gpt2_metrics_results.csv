@@ -1,0 +1,58 @@
+Dream,Original,Generated,BLEU,Perplexity,BERTScore,ROUGE-L
+Flying,"Desire for freedom and liberation from constraints, sometimes related to family or societal pressures.","The ability to fly in a straight line without any obstacles (or even the slightest obstacle). This is called ""flying"". It can be used",0.007913247271422612,8.245664975586115,0.8444539308547974,0.10526315789473685
+Teeth falling out,"Anxiety about loss, often symbolizing fear of losing authority or power.",Fear that something is wrong with you; feeling like it's not right to be alone in your life (or at least the,0.0,6.314500070956856,0.8309386372566223,0.1176470588235294
+Being chased,Representation of repressed fears or internal conflicts the dreamer is struggling with.,Fear that something is wrong with you; feeling like it's not right to be there anymore (or at least in the moment).,0.010331208012220438,6.968254055239629,0.8431519865989685,0.1714285714285714
+Death of a loved one,"Unconscious wish to end a dependent or conflicted relationship, but also fear of loss.",The feeling that something is wrong with you; the sense in which your life has been destroyed because someone else failed to do,0.008282282660969604,8.009515327800699,0.8462105393409729,0.05405405405405405
+Falling from a great height,Feeling of losing control or fear of failure.,Fear that something is wrong with you; feeling like someone has taken your life away because they are afraid to speak up against,0.0,6.783434098885687,0.8513286709785461,0.06451612903225806
+Unprepared for an exam,Anxiety about performance and meeting external expectations.,Having trouble with a problem that you don't understand (or have no idea how to solve).,0.0,6.589871658126043,0.8482993841171265,0.0
+Self-injury,Expression of guilt and a desire to punish oneself.,Fear that something is wrong with you; feeling like someone else has taken over your life (or at least the lives they've,0.0,6.739541747901015,0.8433369994163513,0.0
+Arriving late to an important meeting,Persistent fear of not meeting expectations and missing opportunities.,Having a bad day at work (or having trouble sleeping),0.0,7.854810909914957,0.8406037092208862,0.0
+Infidelity,Anxiety related to trust and interpersonal relationships.,Having a bad day in the morning (or even worse) due to lacklustre work/life balance issues that can lead you down,0.009134423666564471,7.083104505796741,0.84810471534729,0.06896551724137931
+Losing a valuable item,Anxiety over loss of identity or personal value.,Losses in relationships with others who are not your friends.,0.0,12.385925581398299,0.8666366934776306,0.11111111111111112
+Raging waters,Surging emotions trying to surface into consciousness.,Fear that something is wrong with you; feeling like it's not right to be there anymore (or at least in the moment).,0.008687475782716616,6.968254055239629,0.840991735458374,0.06666666666666667
+Passing through a tunnel,Symbol of rebirth or transition to a new life stage.,"The feeling that you are in danger when the other person is not there to help them with their problem (e., ""I",0.008687475782716616,12.48356630180361,0.8249163031578064,0.06250000000000001
+Torn clothes,Fear of exposing flaws and weaknesses to others.,Fear that something is wrong with you; feeling like a stranger in the world (or at least not as much).,0.009629943614188135,7.8642120307654695,0.8472061157226562,0.07142857142857144
+Feast or banquet,Desire for emotional or physical satisfaction.,The feeling that something is wrong with you (or your family).,0.0,9.155746960350115,0.8501626253128052,0.11764705882352942
+Talking to a deceased person,Attempt to process grief or recall values and messages from the deceased.,Thinking that you are dead but still alive in the past (or present).,0.01553712569276035,14.067295825452923,0.8515897989273071,0.08
+Winning a prize,Wish for recognition and self-worth affirmation.,The ability to win something in life without losing it (or even if you lose).,0.0,11.131109877243869,0.846385657787323,0.0
+Entering an unfamiliar house,Exploration of unconscious aspects of the self.,"The feeling that you are in a different place than the one before you; this is called ""the dream."" This can",0.009134423666564471,8.596728002173322,0.8501315712928772,0.07142857142857142
+Meeting with an authority figure,Processing of conflicts with authority figures in real life.,The ability to be trusted in a situation that is difficult but not impossible.,0.01428363257865929,9.012205714497556,0.8617949485778809,0.08695652173913043
+Aggressive animal,Representation of primitive drives or repressed anger.,Fear that something is wrong with you (or your family).,0.0,6.274386417258824,0.8377295136451721,0.11764705882352941
+Drowning,Feeling emotionally overwhelmed or unable to cope with problems.,Fear that something is wrong with you; feeling like it's not right to be there anymore (or worse).,0.01284618972676772,7.557010803505797,0.8562647700309753,0.14285714285714285
+Returning to a childhood home,Search for security and roots.,"The feeling that you are not alone in your life anymore.
+ (This is the same as ""I'm going back",0.0,11.067669783490578,0.8468642234802246,0.0
+Small child,"Wish for purity and innocence, or a need for protection and support.",The feeling that something is wrong with you; the sense in which your body feels like it's on fire (or not).,0.0,7.219629970713159,0.8405470848083496,0.05882352941176471
+Climbing stairs,Personal or professional advancement.,"Falling off a building's roof to get back up again after an accident.
+
+ (Source) Dreaming is the process whereby we",0.0,18.872392623540506,0.8300836682319641,0.0
+Locked gate,Feeling of being blocked in personal or professional life.,Fear that something is wrong with you; feeling like it's not right to be there anymore (or at least in your life).,0.008687475782716616,6.754419191739953,0.8528192043304443,0.25
+Pregnancy,"Creativity, new ideas, or projects coming to fruition.",Having a baby in the first place (or having it happen to you).,0.01553712569276035,8.157965736751596,0.8495247960090637,0.1904761904761905
+Unexpected sexual encounter,Expression of repressed sexual desires or a need for closer intimacy.,The feeling that something is wrong with you (or your partner).,0.0,9.756226884757385,0.8706810474395752,0.09090909090909091
+Breathtaking landscape,"Aspiration for an ideal or a safe, serene place.",The beauty of nature in the form that it is made up to be (or not).,0.0,11.750195658958166,0.8575099110603333,0.08
+Bridge,Transition between life stages or different emotions.,"The ability to move through a maze without having trouble finding the right place at all times.
+
+ (Source) Dreaming is an art form",0.0,11.277433015102622,0.8396457433700562,0.0
+Full moon,Connection to natural forces and emotional balance.,The feeling that you are in control over your life's destiny (or lack thereof).,0.0,8.947726731476774,0.849068820476532,0.0
+Bright light,"Enlightenment, new insight, or growing awareness.",The ability to see the world through a dark lens.,0.0,9.288471622502513,0.8801102638244629,0.0
+Physical fight,Internal conflict between opposing drives.,Fear that something is wrong with you (or your family).,0.0,6.274386417258824,0.8479447960853577,0.0
+Dark forest,Feeling lost or in search of oneself.,Fear that something is wrong with you; feeling like a stranger in the woods (or somewhere else).,0.011502783619900045,8.102209083100771,0.8559393286705017,0.16666666666666666
+Driving a car,Sense of control or lack of control over life direction.,The feeling that you are in control over your own destiny.,0.03986357128268015,8.839086604232154,0.8970272541046143,0.1904761904761905
+Childbirth,New beginnings or significant creation.,"The birth process in a child's body that is not controlled but rather the result thereof (e.,g.: pregnancy).",0.0,23.384367091210542,0.8399990200996399,0.0
+Rain,Emotional cleansing and renewal.,The feeling that something is wrong with you (or your family).,0.0,9.155746960350115,0.8582382202148438,0.0
+Open door,New opportunity or exploration of the unknown.,The ability to open a window into the world without having it closed off in your mind.,0.011502783619900045,9.930894992938098,0.8720844984054565,0.08333333333333333
+Volcano eruption,Suppressed emotions suddenly breaking out.,The feeling that something is wrong with you (or your family).,0.0,9.155746960350115,0.8368515372276306,0.0
+Weapons,Confrontation or emotional self-defense.,The ability to use a weapon in combat with other people (e-mailing).,0.0,12.751982256888349,0.8590438365936279,0.0
+Theft,Fear of being deprived of rights or possessions.,The act that causes a person to lose control over their own body in order not to be able take care (or even enjoy) themselves;,0.0,11.289850218969065,0.8490519523620605,0.12121212121212122
+Mirror,Concern with self-image and identity.,"The ability to see the world through a mirror image.
+
+ (Source) Dreaming is an art form that involves creating images in order not",0.0,12.259392966437677,0.8443776369094849,0.06896551724137931
+High-speed train,Pressure to cope with fast-paced life events.,The ability to move at high speeds without any effort on your part. This is a dream that can be experienced in the form,0.007913247271422612,8.084512600368834,0.8615500330924988,0.0625
+Ancient book,Search for knowledge or insight.,"The ability to read the mind's thoughts in a way that is not just logical but also intuitively understandable (e.,g.: """,0.0,10.385276374355024,0.8309305906295776,0.0
+Public nudity,Fear of exposure or vulnerability.,The feeling that you are not allowed to see your own body in public without permission (or even with a condom). This is the most,0.0,8.279954122786501,0.8377990126609802,0.06666666666666667
+Being lost,Confusion and lack of direction.,Fear that something is wrong with you; feeling like it's not right to be there anymore (or at least in the moment).,0.0,6.968254055239629,0.8607553243637085,0.0
+Shining stars,High aspirations or hope.,The feeling that something is wrong with you; the sense in which your body feels like it's on fire (or maybe not).,0.0,7.105265970566831,0.8362140655517578,0.07407407407407408
+Tall ladder,Aspiration to rise in status or achieve great success.,The ability to climb a tall building without any effort on your part.,0.01553712569276035,9.893630076492123,0.8650884628295898,0.09090909090909093
+Wings,Desire to escape or break free from constraints.,The ability to fly in a straight line without any obstacles (like the wind).,0.01428363257865929,11.666823380408958,0.8575000762939453,0.09090909090909091
+Beautiful music,Search for inner harmony and peace.,The feeling that something is beautiful in the moment but not quite there yet (or at least it's a little bit different).,0.0,9.307320628950363,0.8426103591918945,0.0
+Party,Need for social life and a sense of belonging.,The feeling that something is wrong with you; the sense in which someone else has done it to your life (or at least made a mistake,0.00956240657444202,8.220855418048936,0.8409233093261719,0.1142857142857143
+Foreign city,Seeking new experiences or a change in reality.,The feeling that you are in a foreign country without any rights at all (or even your own). This is the dream world we live,0.009009113474307318,9.128289659616824,0.8584774732589722,0.06060606060606061

@@ -32,3 +32,5 @@ Niv- gpt2/dream_model_gpt2/vocab.json"dreams_interpreter/"
 dreams_interpreter/
 dream_interpreter_t5/
 Niv- gpt2/dream_model_gpt2_split/
+Barak model/Bert-Model/bert_large_finetuned_dreams
+Barak model/GPT2 Model/dream_model_gpt2
