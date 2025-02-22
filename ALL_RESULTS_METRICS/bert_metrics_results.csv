@@ -1,0 +1,51 @@
+Dream,Original,Generated,BLEU,Perplexity,BERTScore,ROUGE-L
+Flying,"Desire for freedom and liberation from constraints, sometimes related to family or societal pressures.",Dream: Flying Interpretation: dream.,0.0,9.730766383218091,0.8353506922721863,0.0
+Teeth falling out,"Anxiety about loss, often symbolizing fear of losing authority or power.",Dream: Teeth falling out Interpretation: teeth.,0.0,6.077084067468355,0.8457490801811218,0.0
+Being chased,Representation of repressed fears or internal conflicts the dreamer is struggling with.,Dream: Being chased Interpretation: chase.,0.0,7.635105976048987,0.8392754197120667,0.0
+Death of a loved one,"Unconscious wish to end a dependent or conflicted relationship, but also fear of loss.",Dream: Death of a loved one Interpretation: death.,0.015603043420373072,5.827927041312095,0.8509091734886169,0.09090909090909091
+Falling from a great height,Feeling of losing control or fear of failure.,Dream: Falling from a great height Interpretation: dream.,0.0,4.877716025159644,0.8577445149421692,0.0
+Unprepared for an exam,Anxiety about performance and meeting external expectations.,Dream: Unprepared for an exam Interpretation: exam.,0.0,3.86615788381011,0.8629316091537476,0.0
+Self-injury,Expression of guilt and a desire to punish oneself.,Dream: Self-injury Interpretation: injury.,0.0,5.933832664041311,0.8635621666908264,0.0
+Arriving late to an important meeting,Persistent fear of not meeting expectations and missing opportunities.,Dream: Arriving late to an important meeting Interpretation: dream.,0.023980296761827107,4.040239383418769,0.8462066054344177,0.1111111111111111
+Infidelity,Anxiety related to trust and interpersonal relationships.,Dream: Infidelity Interpretation: dream.,0.0,6.1173140791079454,0.8580954074859619,0.0
+Losing a valuable item,Anxiety over loss of identity or personal value.,Dream: Losing a valuable item Interpretation: loss.,0.0,6.762599407425715,0.8765288591384888,0.13333333333333333
+Raging waters,Surging emotions trying to surface into consciousness.,Dream: Raging waters Interpretation: water.,0.0,7.4994486503418925,0.8487791419029236,0.0
+Passing through a tunnel,Symbol of rebirth or transition to a new life stage.,Dream: Passing through a tunnel Interpretation: tunnel.,0.02151810250197126,5.546767531866712,0.8546754121780396,0.11764705882352941
+Torn clothes,Fear of exposing flaws and weaknesses to others.,Dream: Torn clothes Interpretation: dream.,0.0,7.41028846868948,0.8422541618347168,0.0
+Feast or banquet,Desire for emotional or physical satisfaction.,Dream: Feast or banquet Interpretation: feast.,0.040824829046386304,6.651965206221862,0.8411206007003784,0.16666666666666666
+Talking to a deceased person,Attempt to process grief or recall values and messages from the deceased.,Dream: Talking to a deceased person Interpretation: dream.,0.016847111051295396,4.7174338906118525,0.8521581292152405,0.2
+Winning a prize,Wish for recognition and self-worth affirmation.,Dream: Winning a prize Interpretation: win.,0.0,6.671178953563234,0.8518550395965576,0.0
+Entering an unfamiliar house,Exploration of unconscious aspects of the self.,Dream: Entering an unfamiliar house Interpretation: dream.,0.0,5.2008131650471245,0.845455527305603,0.0
+Meeting with an authority figure,Processing of conflicts with authority figures in real life.,Dream: Meeting with an authority figure Interpretation: dream.,0.02915032279375143,4.5437724310163645,0.8801795840263367,0.35294117647058826
+Aggressive animal,Representation of primitive drives or repressed anger.,Dream: Aggressive animal Interpretation: animal.,0.0,7.572933102270416,0.8396552801132202,0.0
+Drowning,Feeling emotionally overwhelmed or unable to cope with problems.,Dream: Drowning Interpretation: drowning.,0.0,10.390914108820496,0.8363896608352661,0.0
+Returning to a childhood home,Search for security and roots.,Dream: Returning to a childhood home Interpretation: home.,0.0,5.761342781239754,0.8621112108230591,0.0
+Small child,"Wish for purity and innocence, or a need for protection and support.",Dream: Small child Interpretation: dream.,0.0,7.304431685624833,0.833562433719635,0.0
+Climbing stairs,Personal or professional advancement.,Dream: Climbing stairs Interpretation: stairs.,0.0,8.431279249664358,0.8439317345619202,0.0
+Locked gate,Feeling of being blocked in personal or professional life.,Dream: Locked gate Interpretation: dream.,0.0,7.729734969580215,0.8455029726028442,0.0
+Pregnancy,"Creativity, new ideas, or projects coming to fruition.",Dream: Pregnancy Interpretation: pregnancy.,0.0,9.295122109190066,0.8461771607398987,0.0
+Unexpected sexual encounter,Expression of repressed sexual desires or a need for closer intimacy.,Dream: Unexpected sexual encounter Interpretation: dream.,0.01774239756616722,5.971199667970113,0.8673897385597229,0.11764705882352942
+Breathtaking landscape,"Aspiration for an ideal or a safe, serene place.",Dream: Breathtaking landscape Interpretation: landscape.,0.0,6.378843053854891,0.8473758101463318,0.0
+Bridge,Transition between life stages or different emotions.,Dream: Bridge Interpretation: bridge.,0.0,10.055579667363054,0.8498782515525818,0.0
+Full moon,Connection to natural forces and emotional balance.,Dream: Full moon Interpretation: dream.,0.0,7.345681690890718,0.8378602266311646,0.0
+Bright light,"Enlightenment, new insight, or growing awareness.",Dream: Bright light Interpretation: dream.,0.0,7.604310371817457,0.8609033823013306,0.0
+Physical fight,Internal conflict between opposing drives.,Dream: Physical fight Interpretation: fight.,0.0,7.709816482023745,0.8749455809593201,0.0
+Dark forest,Feeling lost or in search of oneself.,Dream: Dark forest Interpretation: dream.,0.0,7.4532139444592085,0.8420190811157227,0.0
+Driving a car,Sense of control or lack of control over life direction.,Dream: Driving a car Interpretation: car.,0.0,6.677368904616816,0.8435420989990234,0.0
+Childbirth,New beginnings or significant creation.,Dream: Childbirth Interpretation: childbirth.,0.0,9.595851817055596,0.8503257036209106,0.0
+Rain,Emotional cleansing and renewal.,Dream: Rain Interpretation: rain.,0.0,9.330764907871979,0.8580995202064514,0.0
+Open door,New opportunity or exploration of the unknown.,Dream: Open door Interpretation: dream.,0.0,7.338721823243029,0.8419857025146484,0.0
+Volcano eruption,Suppressed emotions suddenly breaking out.,Dream: Volcano eruption Interpretation: eruption.,0.0,7.095478629338822,0.8353230357170105,0.0
+Weapons,Confrontation or emotional self-defense.,Dream: Weapons Interpretation: weapons.,0.0,9.790050290509924,0.8460118770599365,0.0
+Theft,Fear of being deprived of rights or possessions.,Dream: Theft Interpretation: theft.,0.0,9.34327577859621,0.8420053124427795,0.0
+Mirror,Concern with self-image and identity.,Dream: Mirror Interpretation: dream.,0.0,9.481004638074777,0.8521836400032043,0.0
+High-speed train,Pressure to cope with fast-paced life events.,Dream: High-speed train Interpretation: dream.,0.0,5.670497004438583,0.8570178151130676,0.0
+Ancient book,Search for knowledge or insight.,Dream: Ancient book Interpretation: dream.,0.0,7.439196711611356,0.8473774194717407,0.0
+Public nudity,Fear of exposure or vulnerability.,Dream: Public nudity Interpretation: sex.,0.0,6.152237314972253,0.8532587885856628,0.0
+Being lost,Confusion and lack of direction.,Dream: Being lost Interpretation: lost.,0.0,7.809560891583255,0.858559250831604,0.0
+Shining stars,High aspirations or hope.,Dream: Shining stars Interpretation: dream.,0.0,7.757340425556928,0.8504728674888611,0.0
+Tall ladder,Aspiration to rise in status or achieve great success.,Dream: Tall ladder Interpretation: dream.,0.0,7.5405711640550805,0.8266382217407227,0.0
+Wings,Desire to escape or break free from constraints.,Dream: Wings Interpretation: wings.,0.0,10.174255674069729,0.8497315049171448,0.0
+Beautiful music,Search for inner harmony and peace.,Dream: Beautiful music Interpretation: dream.,0.0,7.376580603114331,0.8489445447921753,0.0
+Party,Need for social life and a sense of belonging.,Dream: Party Interpretation: party.,0.0,9.469842899685013,0.8486062288284302,0.0
+Foreign city,Seeking new experiences or a change in reality.,Dream: Foreign city Interpretation: dream.,0.0,7.465799104868407,0.8443899750709534,0.0

@@ -6,6 +6,8 @@ pandas
 scikit-learn
 datasets
 openpyxl
+seaborn
+matplotlib
 
 # NLP Libraries
 transformers
