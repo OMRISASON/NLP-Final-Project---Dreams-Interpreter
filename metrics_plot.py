@@ -35,7 +35,7 @@ def main():
     # Define model names and corresponding CSV file paths
     model_files = {
         "T5-Base": "C:\\Users\\97254\\Desktop\\niv\\Github projects\\NLP-Final-Project---Dreams-Interpreter\\ALL_RESULTS_METRICS\\t5_metrics_results.csv",
-        #"T5-Small": "C:\\Users\\97254\\Desktop\\niv\\Github projects\\NLP-Final-Project---Dreams-Interpreter\\ALL_RESULTS_METRICS\\t5_small_metrics_results.csv",
+        "T5-Small": "C:\\Users\\97254\\Desktop\\niv\\Github projects\\NLP-Final-Project---Dreams-Interpreter\\ALL_RESULTS_METRICS\\t5_small_metrics_results.csv",
         "GPT-2": "C:\\Users\\97254\\Desktop\\niv\\Github projects\\NLP-Final-Project---Dreams-Interpreter\\ALL_RESULTS_METRICS\\gpt2_metrics_results (1).csv",
         "BERT": "C:\\Users\\97254\\Desktop\\niv\\Github projects\\NLP-Final-Project---Dreams-Interpreter\\ALL_RESULTS_METRICS\\bert_metrics_results.csv"
     }
